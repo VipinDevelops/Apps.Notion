@@ -1,0 +1,15 @@
+{
+    "id": "9b2b581c-19c5-4822-b62d-6d64eb752371",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Vipin Chaudhary",
+        "homepage": "https://github.com/VipinDevelops/Apps.Notion",
+        "support": "https://github.com/VipinDevelops/Apps.Notion"
+    },
+    "name": "notion",
+    "nameSlug": "notion",
+    "classFile": "NotionApp.ts",
+    "description": "Notion integration for Rocket chat"
+}
